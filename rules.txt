@@ -1,0 +1,109 @@
+! Discord
+discordapp.com##.notice
+
+! Youtube
+www.youtube.com###merch-shelf
+www.youtube.com##a[href*="/premium"]
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com###offer-module > .ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+
+! Facebook
+www.facebook.com##.obtkqiv7.sv5sfqaa.tgvbjcpo.buofh1pr.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
+
+! Twitch
+www.twitch.tv##.top-nav__prime
+www.twitch.tv##a[href*="https://twitch.amazon.com/tp"]
+www.twitch.tv##div[class="extensions-video-overlay-size-container"]
+www.twitch.tv##div.extensions-dock__layout
+www.twitch.tv##iframe.extension-component__iframe  
+www.twitch.tv##div.js-ima-ads-container
+||player.twitch.tv/?allowfullscreen&channel=fextralife&origin=https%3A%2F%2Fdarksouls3.wiki.fextralife.com$subdocument
+www.twitch.tv##.hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .cegTsp.ljgEdo.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.storiesLeftNavSection--csO9S.dcyYPL.Layout-sc-1xcs6mc-0 > button
+www.twitch.tv##.hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .cegTsp.bTXTVH.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.chat-signup-gate__background-modal
+www.twitch.tv##.chat-signup-gate__overlay-modal
+www.twitch.tv##.chat-signup-gate-overlay
+||assets.twitch.tv/assets/sub-upsell-dark-c748577ff1a42c5a2af8.jpg$image
+||static-cdn.jtvnw.net/subs-image-assets/turbo-ads-upsell-background.svg$image
+
+www.twitch.tv##.hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .GOdqv.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.jWHzQH.Layout-sc-1xcs6mc-0 > .hsXgFK.Layout-sc-1xcs6mc-0
+www.twitch.tv###inlinePrivateCallout-1736535896435-ij4x-unhandled > seventv-container > .Layout-sc-1xcs6mc-0
+||static-cdn.jtvnw.net/subs-image-assets/bonus-round/bonus-round-red-callout.png$image
+www.twitch.tv##.bonus-round-gradient-urgent.fSpCrC.Layout-sc-1xcs6mc-0
+www.twitch.tv##.kBtJDm.InjectLayout-sc-1i43xsx-0 > .bIQOdp.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.giftExpirationCallout--W1rIF.iwzGwF.Layout-sc-1xcs6mc-0
+www.twitch.tv##.side-nav-card-hype-train-bottom.ghdfqV.Layout-sc-1xcs6mc-0
+
+
+!4chan
+||hakurei.danbo.org/gate?d=27&p=homews&z=1&x=__SFW__&fqdn=www.4channel.org$subdocument
+www.4channel.org##.danbo-slot
+boards.4channel.org##[src^="//s.4cdn.org/image/contest_banners/"]
+boards.4channel.org##.center.middlead > div
+boards.4chan.org##body > .adl
+boards.4chan.org##[src*="//s.4cdn.org/image/contest_banners/"]
+boards.4chan.org##.center.middlead
+||s.4cdn.org/image/title/104.jpg$image
+boards.4chan.org##.desktop.title
+boards.4chan.org##.hideMobile.globalMessage
+
+! Pandora
+www.pandora.com##a[href="/settings/upgrade"]
+www.pandora.com##li.NavSecondary__item:nth-of-type(2)
+
+! Reddit
+old.reddit.com##.premium-banner
+
+! Dropbox
+www.dropbox.com###upsell-bubble
+!www.dropbox.com##.visible.ha:nth-of-type(1)
+
+! KnowYourMeme
+knowyourmeme.com##.current.blocker.jquery-modal
+knowyourmeme.com##.blocker
+knowyourmeme.com##div.jquery-modal.blocker.current
+||a.namitol.com^$important
+knowyourmeme.com##div.hide
+knowyourmeme.com##div#abm.modal
+knowyourmeme.com##body:style(overflow: auto !important; position: initial !important;)
+knowyourmeme.com##.current.blocker.jquery-modal
+
+! Imgur
+imgur.com##.spotlight-container
+
+! Fextralife
+fextralife.com##iframe[src*="https://player.twitch.tv/?allowfullscreen&channel=fextralife"]
+||embed.twitch.tv/?channel=fextralife&height=398&layout=video-with-chat&muted=true&parent=monsterhunterrise.wiki.fextralife.com&referrer=https%3A%2F%2Fmonsterhunterrise.wiki.fextralife.com%2FSkills&theme=dark&width=340$subdocument
+monsterhunterrise.wiki.fextralife.com##.simulation-hero-heading.section-heading-light.section-heading.ad-sidebar
+||fextralife.minnit.org/Fextralife$subdocument
+
+! Router
+192.168.1.1###circle-info-modal
+192.168.1.1##.download-orbi-banner
+192.168.1.1##.card-orbi-app
+
+!anicrush
+anicrush.to##.comments-wrap
+anicrush.to###header_social > .social-items.align-items-center.d-flex > .with-name.circle-item
+anicrush.to###header_social
+
+! Misc
+ponguw-stout.challonge.com##.corner-ax
+www.watchcartoononline.com###krggd913rcd2810868169
+www.experts-exchange.com##.cyberPopup
+open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
+www.nytimes.com##.z-index-gateway-overlay
+www.instagram.com##.x1n2onr6.xg6iff7.xdt5ytf.x78zum5
+outlook.live.com##.LBktY > .GssDD
+www.waifu2x.net##.dmm-games > ul > li
+
+! 2023-01-08 https://www.colby.k12.wi.us
+||ensemble.cesa10.k12.wi.us/api/data/image/get?path=/Organizations/07F7A8CF-5C22-407D-B784-8CD45557B481/Images/PlayerLogo_thumb.png?xxx=550291583$image
+
+
+
+
