@@ -91,6 +91,9 @@ anicrush.to##.comments-wrap
 anicrush.to###header_social > .social-items.align-items-center.d-flex > .with-name.circle-item
 anicrush.to###header_social
 
+!hianime
+hianime.to##.block_area-comment.block_area
+
 ! Misc
 ponguw-stout.challonge.com##.corner-ax
 www.watchcartoononline.com###krggd913rcd2810868169
