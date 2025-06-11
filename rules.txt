@@ -28,7 +28,6 @@ www.twitch.tv##.chat-signup-gate__overlay-modal
 www.twitch.tv##.chat-signup-gate-overlay
 ||assets.twitch.tv/assets/sub-upsell-dark-c748577ff1a42c5a2af8.jpg$image
 ||static-cdn.jtvnw.net/subs-image-assets/turbo-ads-upsell-background.svg$image
-
 www.twitch.tv##.hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .GOdqv.ScCoreButton-sc-ocjdkq-0
 www.twitch.tv##.jWHzQH.Layout-sc-1xcs6mc-0 > .hsXgFK.Layout-sc-1xcs6mc-0
 www.twitch.tv###inlinePrivateCallout-1736535896435-ij4x-unhandled > seventv-container > .Layout-sc-1xcs6mc-0
@@ -95,7 +94,6 @@ anicrush.to###header_social
 hianime.to##.block_area-comment.block_area
 
 ! Misc
-ponguw-stout.challonge.com##.corner-ax
 www.watchcartoononline.com###krggd913rcd2810868169
 www.experts-exchange.com##.cyberPopup
 open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
@@ -104,8 +102,6 @@ www.instagram.com##.x1n2onr6.xg6iff7.xdt5ytf.x78zum5
 outlook.live.com##.LBktY > .GssDD
 www.waifu2x.net##.dmm-games > ul > li
 
-! 2023-01-08 https://www.colby.k12.wi.us
-||ensemble.cesa10.k12.wi.us/api/data/image/get?path=/Organizations/07F7A8CF-5C22-407D-B784-8CD45557B481/Images/PlayerLogo_thumb.png?xxx=550291583$image
 
 
 
