@@ -36,6 +36,13 @@ www.twitch.tv##.bonus-round-gradient-urgent.fSpCrC.Layout-sc-1xcs6mc-0
 www.twitch.tv##.kBtJDm.InjectLayout-sc-1i43xsx-0 > .bIQOdp.ScCoreButton-sc-ocjdkq-0
 www.twitch.tv##.giftExpirationCallout--W1rIF.iwzGwF.Layout-sc-1xcs6mc-0
 www.twitch.tv##.side-nav-card-hype-train-bottom.ghdfqV.Layout-sc-1xcs6mc-0
+www.twitch.tv##.hyWdnO.Layout-sc-1xcs6mc-0
+www.twitch.tv##.giftExpirationCalloutYellow--VlTa2.fVzRsn.Layout-sc-1xcs6mc-0
+www.twitch.tv##.tw-interactable.jUoCML.ineRox.ScInteractableDefault-sc-ofisyf-1.ScInteractableBase-sc-ofisyf-0
+||static-cdn.jtvnw.net/subs-image-assets/turbo-ads-upsell-background.svg$image
+www.twitch.tv##.tw-interactable.etibmD.ineRox.ScInteractableDefault-sc-ofisyf-1.ScInteractableBase-sc-ofisyf-0
+www.twitch.tv##div.czRfnU.Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .GOdqv.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##div.jDgJoG.Layout-sc-1xcs6mc-0:nth-of-type(3)
 
 
 !4chan
@@ -85,12 +92,12 @@ monsterhunterrise.wiki.fextralife.com##.simulation-hero-heading.section-heading-
 192.168.1.1##.download-orbi-banner
 192.168.1.1##.card-orbi-app
 
-!anicrush
+!anime
 anicrush.to##.comments-wrap
 anicrush.to###header_social > .social-items.align-items-center.d-flex > .with-name.circle-item
 anicrush.to###header_social
-
-!hianime
+myanimelist.net##.ga-impression.ga-click.text-ribbon-45.text-ribbon
+animekai.to##.alert-info.alert
 hianime.to##.block_area-comment.block_area
 
 ! Misc
@@ -101,6 +108,9 @@ www.nytimes.com##.z-index-gateway-overlay
 www.instagram.com##.x1n2onr6.xg6iff7.xdt5ytf.x78zum5
 outlook.live.com##.LBktY > .GssDD
 www.waifu2x.net##.dmm-games > ul > li
+www.yahoo.com##.md\:min-h-\[4\.875rem\].md\:mt-3.min-h-\[4\.25rem\].relative
+x.com##.r-494qqr.css-175oi2r
+chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-light.md\:items-center.shadow-xxs.lg\:mx-auto.dark\:border-transparent.\[text-wrap\:pretty\].text-sm.pr-3.pl-5.py-4.border.rounded-2xl.gap-4.items-start.w-full.flex
 
 
 
