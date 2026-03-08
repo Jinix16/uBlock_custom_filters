@@ -8,9 +8,9 @@ www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com###offer-module > .ytd-watch-next-secondary-results-renderer.style-scope
 www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+www.youtube.com##ytd-reel-shelf-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 
-! Facebook
-www.facebook.com##.obtkqiv7.sv5sfqaa.tgvbjcpo.buofh1pr.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
 
 ! Twitch
 www.twitch.tv##.top-nav__prime
@@ -42,7 +42,19 @@ www.twitch.tv##.tw-interactable.jUoCML.ineRox.ScInteractableDefault-sc-ofisyf-1.
 ||static-cdn.jtvnw.net/subs-image-assets/turbo-ads-upsell-background.svg$image
 www.twitch.tv##.tw-interactable.etibmD.ineRox.ScInteractableDefault-sc-ofisyf-1.ScInteractableBase-sc-ofisyf-0
 www.twitch.tv##div.czRfnU.Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .GOdqv.ScCoreButton-sc-ocjdkq-0
-www.twitch.tv##div.jDgJoG.Layout-sc-1xcs6mc-0:nth-of-type(3)
+www.twitch.tv##.hMzOYz.Layout-sc-1xcs6mc-0
+www.twitch.tv##.side-nav-promoted-followed-card__sponsorship.iKHESs.Layout-sc-1xcs6mc-0
+www.twitch.tv##.cZMGmO.Layout-sc-1xcs6mc-0
+www.twitch.tv##.iDMNUO.InjectLayout-sc-1i43xsx-0 > .gGttfb.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.dKitkM.Layout-sc-1xcs6mc-0
+www.twitch.tv##.kOoFSj.Layout-sc-1xcs6mc-0 > .gGttfb.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.iDMNUO.InjectLayout-sc-1i43xsx-0 > .kOoFSj.Layout-sc-1xcs6mc-0
+www.twitch.tv##.tw-transition.hhLPgp.ScTransitionBase-sc-hx4quq-0
+www.twitch.tv##.community-highlight.jubumC.Layout-sc-1xcs6mc-0
+www.twitch.tv##.timerSvg--M674T
+www.twitch.tv##.purpleGlow--elosN.jcnVGS.Layout-sc-1xcs6mc-0
+www.twitch.tv##.oneTapIngressButton--inGsR.kkinSD.Layout-sc-1xcs6mc-0
+www.twitch.tv##.channel-info-content > div > .kFLrqZ.Layout-sc-1xcs6mc-0
 
 
 !4chan
@@ -66,7 +78,8 @@ old.reddit.com##.premium-banner
 
 ! Dropbox
 www.dropbox.com###upsell-bubble
-!www.dropbox.com##.visible.ha:nth-of-type(1)
+www.dropbox.com##._suggestSection_131s4_17._sectionComponent_1fes2_1
+www.dropbox.com##.In-Theme-Provider.dig-Mode--dark.dig-Theme-vis2023--dark.dig-Theme-vis2023.dig-5lbgm33_23-0-0.dig-Modal-overlay.ReactModal__Overlay--after-open.ReactModal__Overlay
 
 ! KnowYourMeme
 knowyourmeme.com##.current.blocker.jquery-modal
@@ -81,16 +94,15 @@ knowyourmeme.com##.current.blocker.jquery-modal
 ! Imgur
 imgur.com##.spotlight-container
 
+! Spotify
+open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
+
 ! Fextralife
 fextralife.com##iframe[src*="https://player.twitch.tv/?allowfullscreen&channel=fextralife"]
 ||embed.twitch.tv/?channel=fextralife&height=398&layout=video-with-chat&muted=true&parent=monsterhunterrise.wiki.fextralife.com&referrer=https%3A%2F%2Fmonsterhunterrise.wiki.fextralife.com%2FSkills&theme=dark&width=340$subdocument
 monsterhunterrise.wiki.fextralife.com##.simulation-hero-heading.section-heading-light.section-heading.ad-sidebar
 ||fextralife.minnit.org/Fextralife$subdocument
 
-! Router
-192.168.1.1###circle-info-modal
-192.168.1.1##.download-orbi-banner
-192.168.1.1##.card-orbi-app
 
 !anime
 anicrush.to##.comments-wrap
@@ -99,11 +111,10 @@ anicrush.to###header_social
 myanimelist.net##.ga-impression.ga-click.text-ribbon-45.text-ribbon
 animekai.to##.alert-info.alert
 hianime.to##.block_area-comment.block_area
+myanimelist.net##.ga-impression.bookstore-information
 
 ! Misc
 www.watchcartoononline.com###krggd913rcd2810868169
-www.experts-exchange.com##.cyberPopup
-open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
 www.nytimes.com##.z-index-gateway-overlay
 www.instagram.com##.x1n2onr6.xg6iff7.xdt5ytf.x78zum5
 outlook.live.com##.LBktY > .GssDD
@@ -111,7 +122,7 @@ www.waifu2x.net##.dmm-games > ul > li
 www.yahoo.com##.md\:min-h-\[4\.875rem\].md\:mt-3.min-h-\[4\.25rem\].relative
 x.com##.r-494qqr.css-175oi2r
 chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-light.md\:items-center.shadow-xxs.lg\:mx-auto.dark\:border-transparent.\[text-wrap\:pretty\].text-sm.pr-3.pl-5.py-4.border.rounded-2xl.gap-4.items-start.w-full.flex
-
+mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
 
 
 
