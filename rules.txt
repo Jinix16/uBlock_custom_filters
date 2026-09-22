@@ -21,6 +21,8 @@ www.youtube.com##div[attached-survey]
 www.youtube.com##.ytd-slimlined-survey-renderer
 www.youtube.com##.yt-touch-feedback-shape
 www.youtube.com##.ytd-statement-banner-renderer
+studio.youtube.com##.ytcp-video-share-dialog.style-scope.promote-after-upload-container
+studio.youtube.com##.ytcp-video-share-dialog.style-scope.promote-after-upload
 
 
 
@@ -69,14 +71,18 @@ www.twitch.tv##.oneTapIngressButton--inGsR.kkinSD.Layout-sc-1xcs6mc-0
 www.twitch.tv##.channel-info-content > div > .kFLrqZ.Layout-sc-1xcs6mc-0
 www.twitch.tv##div.VxLcr.Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .iDMNUO.InjectLayout-sc-1i43xsx-0 > .yezmM.ScCoreButton-sc-ocjdkq-0
 www.twitch.tv##.Layout-sc-1xcs6mc-0.fHcEag .ScCoreButton-sc-ocjdkq-0.jRpFkX
+www.twitch.tv##.community-highlight.bYZMRh.Layout-sc-1xcs6mc-0
+www.twitch.tv##.community-highlight-stack__backlog-card.bOXccC.Layout-sc-1xcs6mc-0
+www.twitch.tv##.ingressButtonBackground--xHmq6.oneTapIngressButton--inGsR.kkinSD.Layout-sc-1xcs6mc-0
+www.twitch.tv##.storiesLeftNavSection--csO9S.dQMmwU.Layout-sc-1xcs6mc-0 > button
+www.twitch.tv##.kFLrqZ.Layout-sc-1xcs6mc-0 > .ihSefD.Layout-sc-1xcs6mc-0
 ! sponsored card fixes
 www.twitch.tv##.side-nav-card-promoted-bottom.kHgzIE.Layout-sc-1xcs6mc-0
 www.twitch.tv##.side-nav-promoted-followed-card__gradient.nFCLd.Layout-sc-1xcs6mc-0
-www.twitch.tv##.community-highlight.bYZMRh.Layout-sc-1xcs6mc-0
+! end sponsored card fixes
 
 
-
-!4chan
+! 4chan
 ||hakurei.danbo.org/gate?d=27&p=homews&z=1&x=__SFW__&fqdn=www.4channel.org$subdocument
 www.4channel.org##.danbo-slot
 boards.4channel.org##[src^="//s.4cdn.org/image/contest_banners/"]
@@ -87,6 +93,8 @@ boards.4chan.org##.center.middlead
 ||s.4cdn.org/image/title/104.jpg$image
 boards.4chan.org##.desktop.title
 boards.4chan.org##.hideMobile.globalMessage
+sys.4chan.org##.desktop.title
+boards.4chan.org##img.party-hat
 
 ! Pandora
 www.pandora.com##a[href="/settings/upgrade"]
@@ -94,6 +102,7 @@ www.pandora.com##li.NavSecondary__item:nth-of-type(2)
 
 ! Reddit
 old.reddit.com##.premium-banner
+www.reddit.com##.fixed.m\:block.hidden.order-first.isolate.theme-rpl.left-sidebar
 
 ! Dropbox
 www.dropbox.com###upsell-bubble
@@ -102,6 +111,7 @@ www.dropbox.com##.In-Theme-Provider.dig-Mode--dark.dig-Theme-vis2023--dark.dig-T
 www.dropbox.com##._toolkit-link_r05y9_1.dig-4rjmw90_5-3-1
 www.dropbox.com##.dig-4rjmw90_5-3-1.dig-ekabingb_5-3-1.dig-ekabinyx_5-3-1.dig-ekabinum_5-3-1.dig-ekabinpw_5-3-1.dig-ekabinlg_5-3-1
 www.dropbox.com##.dig-4rjmw90_5-3-1.dig-ekabin14_5-3-1.dig-ekabin11_5-3-1.dig-ekabin7z_5-3-1.dig-ekabind9_5-3-1.dig-ekabinr_5-3-1.dig-ekabin1gk_5-3-1.dig-ekabin1bz_5-3-1
+www.dropbox.com##.browse-view.maestro-content-scroll--horizontal-scrollable.maestro-content-scroll.maestro-browse-app-content > div
 
 ! KnowYourMeme
 knowyourmeme.com##.current.blocker.jquery-modal
@@ -125,18 +135,15 @@ mail.google.com##.eJPjde
 mail.google.com##.FOBRw-ano
 mail.google.com##.I6agWe
 mail.google.com##.dgq5vc
-mail.google.com##.eJPjde
 
 !google
 docs.google.com##.docsRecommendationsPepPersistentEntryPointContainer
-
 
 ! Fextralife
 fextralife.com##iframe[src*="https://player.twitch.tv/?allowfullscreen&channel=fextralife"]
 ||embed.twitch.tv/?channel=fextralife&height=398&layout=video-with-chat&muted=true&parent=monsterhunterrise.wiki.fextralife.com&referrer=https%3A%2F%2Fmonsterhunterrise.wiki.fextralife.com%2FSkills&theme=dark&width=340$subdocument
 monsterhunterrise.wiki.fextralife.com##.simulation-hero-heading.section-heading-light.section-heading.ad-sidebar
 ||fextralife.minnit.org/Fextralife$subdocument
-
 
 !anime
 anicrush.to##.comments-wrap
@@ -146,19 +153,50 @@ myanimelist.net##.ga-impression.ga-click.text-ribbon-45.text-ribbon
 animekai.to##.alert-info.alert
 hianime.to##.block_area-comment.block_area
 myanimelist.net##.ga-impression.bookstore-information
+myanimelist.net##.ga-impression.ga-click.text-ribbon-54.text-ribbon
+
+! proton
+mail.proton.me##.rounded-xl.spotlight--bottom.spotlight
+mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
+account.proton.me##.UpsellMultiBox-style-card.md\:gap-6.gap-4.flex-column.flex.md\:p-6.p-4.rounded-xl.UpsellMultiBox
+account.proton.me##.UpsellMultiBox-style-promotionGradient.md\:gap-6.gap-4.flex-column.flex.md\:p-6.p-4.rounded-xl.UpsellMultiBox
+account.proton.me###section-Blog
+account.proton.me###section-YourPlanUpsell > .relative.group-hover-opacity-container > section.mb-4.DashboardGrid > .DashboardGrid-SectionHeader > .items-baseline.justify-space-between.lg\:flex-nowrap.gap-2.flex.DashboardGrid-SectionTitle
+account.proton.me###section-YourPlanUpsell > .relative.group-hover-opacity-container
+account.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+account.proton.me##.rounded-xl.bg-promotion-gradient-horizontal.relative.bg-promotion.shrink-0.flex-nowrap.flex
+account.proton.me##.rounded-lg.bg-promotion-gradient-vertical.relative.bg-promotion.shrink-0.flex-nowrap.flex
+account.proton.me##.xl\:w-auto.w-full.items-center.flex
+account.proton.me###section-breaches > .relative.group-hover-opacity-container > .mb-4.DashboardGrid
+
+! outlook
+outlook.live.com##.LBktY > .GssDD
+outlook.live.com##.IIaLq.qJDsp.TXRvx.r1f29ykk.fui-Button
+
+! instagram
+www.instagram.com##.xzkaem6.x1n2onr6 > .xjx87ck.x1yqm8si.xfk6m8.xh8yej3.x13vifvy.x1rohswg.xixxii4.x1odjw0f.xw2csxc.x1o0tod.x5yr21d.x1pq812k.x1ja2u2z.x9f619
+www.instagram.com##.x1n2onr6.xg6iff7.xdt5ytf.x78zum5
+
+! chatgpt
+chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-light.md\:items-center.shadow-xxs.lg\:mx-auto.dark\:border-transparent.\[text-wrap\:pretty\].text-sm.pr-3.pl-5.py-4.border.rounded-2xl.gap-4.items-start.w-full.flex
+chatgpt.com##.dark\:hover\:bg-\[\#414071\].dark\:text-\[\#DCDBF6\].dark\:bg-\[\#373669\].hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].bg-\[\#F1F1FB\].pe-2.py-2.font-medium.text-sm.rounded-full.gap-1.items-center.inline-flex
+
+! gw2
+metabattle.com##.alert-primary.alert
+gw2efficiency.com##.eff-background-color-grey-05.eff-padding-horizontal-xl.eff-padding-vertical-l.eff-margin-horizontal-auto.eff-margin-top-xxxl.eff-align-items-center.eff-display-flex
 
 ! Misc
 www.watchcartoononline.com###krggd913rcd2810868169
 www.nytimes.com##.z-index-gateway-overlay
-www.instagram.com##.x1n2onr6.xg6iff7.xdt5ytf.x78zum5
-outlook.live.com##.LBktY > .GssDD
 www.waifu2x.net##.dmm-games > ul > li
 www.biblegateway.com##.go2729634377
 www.yahoo.com##.md\:min-h-\[4\.875rem\].md\:mt-3.min-h-\[4\.25rem\].relative
 x.com##.r-494qqr.css-175oi2r
-chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-light.md\:items-center.shadow-xxs.lg\:mx-auto.dark\:border-transparent.\[text-wrap\:pretty\].text-sm.pr-3.pl-5.py-4.border.rounded-2xl.gap-4.items-start.w-full.flex
-mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
-sys.4chan.org##.desktop.title
+www.pixiv.net##.hKYKav.sc-4nj1pr-5
+www.facebook.com##[data-visualcompletion="ignore-late-mutation"]
+
+
+
 
 
 
