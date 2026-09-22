@@ -69,6 +69,9 @@ www.twitch.tv##.oneTapIngressButton--inGsR.kkinSD.Layout-sc-1xcs6mc-0
 www.twitch.tv##.channel-info-content > div > .kFLrqZ.Layout-sc-1xcs6mc-0
 www.twitch.tv##div.VxLcr.Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .iDMNUO.InjectLayout-sc-1i43xsx-0 > .yezmM.ScCoreButton-sc-ocjdkq-0
 www.twitch.tv##.Layout-sc-1xcs6mc-0.fHcEag .ScCoreButton-sc-ocjdkq-0.jRpFkX
+! sponsored card fixes
+www.twitch.tv##.side-nav-card-promoted-bottom.kHgzIE.Layout-sc-1xcs6mc-0
+www.twitch.tv##.side-nav-promoted-followed-card__gradient.nFCLd.Layout-sc-1xcs6mc-0
 
 
 !4chan
