@@ -15,11 +15,13 @@ www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.y
 ! mic button and ai button on search
 www.youtube.com###voice-search-button
 www.youtube.com##div.ytSearchboxComponentActionsButton.ytSearchboxComponentActionsButtonHorizontal[client-ve-type]
+www.youtube.com##.you-chat-entrypoint-button.ytd-menu-renderer.style-scope.ytSpecButtonViewModelHost
 ! end of ai crap
 www.youtube.com##div[attached-survey]
 www.youtube.com##.ytd-slimlined-survey-renderer
 www.youtube.com##.yt-touch-feedback-shape
 www.youtube.com##.ytd-statement-banner-renderer
+
 
 
 ! Twitch
