@@ -72,6 +72,8 @@ www.twitch.tv##.Layout-sc-1xcs6mc-0.fHcEag .ScCoreButton-sc-ocjdkq-0.jRpFkX
 ! sponsored card fixes
 www.twitch.tv##.side-nav-card-promoted-bottom.kHgzIE.Layout-sc-1xcs6mc-0
 www.twitch.tv##.side-nav-promoted-followed-card__gradient.nFCLd.Layout-sc-1xcs6mc-0
+www.twitch.tv##.community-highlight.bYZMRh.Layout-sc-1xcs6mc-0
+
 
 
 !4chan
