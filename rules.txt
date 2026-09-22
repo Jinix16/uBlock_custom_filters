@@ -10,6 +10,16 @@ www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
 www.youtube.com##ytd-reel-shelf-renderer.ytd-watch-next-secondary-results-renderer.style-scope
 www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com##.ytSearchboxComponentInputBoxAlignFocused.ytSearchboxComponentInputBoxUnified.ytSearchboxComponentInputBoxDark.ytSearchboxComponentInputBox > div > .ytSpecButtonViewModelHost
+www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost
+! mic button and ai button on search
+www.youtube.com###voice-search-button
+www.youtube.com##div.ytSearchboxComponentActionsButton.ytSearchboxComponentActionsButtonHorizontal[client-ve-type]
+! end of ai crap
+www.youtube.com##div[attached-survey]
+www.youtube.com##.ytd-slimlined-survey-renderer
+www.youtube.com##.yt-touch-feedback-shape
+www.youtube.com##.ytd-statement-banner-renderer
 
 
 ! Twitch
@@ -55,6 +65,8 @@ www.twitch.tv##.timerSvg--M674T
 www.twitch.tv##.purpleGlow--elosN.jcnVGS.Layout-sc-1xcs6mc-0
 www.twitch.tv##.oneTapIngressButton--inGsR.kkinSD.Layout-sc-1xcs6mc-0
 www.twitch.tv##.channel-info-content > div > .kFLrqZ.Layout-sc-1xcs6mc-0
+www.twitch.tv##div.VxLcr.Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .iDMNUO.InjectLayout-sc-1i43xsx-0 > .yezmM.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.Layout-sc-1xcs6mc-0.fHcEag .ScCoreButton-sc-ocjdkq-0.jRpFkX
 
 
 !4chan
@@ -80,6 +92,9 @@ old.reddit.com##.premium-banner
 www.dropbox.com###upsell-bubble
 www.dropbox.com##._suggestSection_131s4_17._sectionComponent_1fes2_1
 www.dropbox.com##.In-Theme-Provider.dig-Mode--dark.dig-Theme-vis2023--dark.dig-Theme-vis2023.dig-5lbgm33_23-0-0.dig-Modal-overlay.ReactModal__Overlay--after-open.ReactModal__Overlay
+www.dropbox.com##._toolkit-link_r05y9_1.dig-4rjmw90_5-3-1
+www.dropbox.com##.dig-4rjmw90_5-3-1.dig-ekabingb_5-3-1.dig-ekabinyx_5-3-1.dig-ekabinum_5-3-1.dig-ekabinpw_5-3-1.dig-ekabinlg_5-3-1
+www.dropbox.com##.dig-4rjmw90_5-3-1.dig-ekabin14_5-3-1.dig-ekabin11_5-3-1.dig-ekabin7z_5-3-1.dig-ekabind9_5-3-1.dig-ekabinr_5-3-1.dig-ekabin1gk_5-3-1.dig-ekabin1bz_5-3-1
 
 ! KnowYourMeme
 knowyourmeme.com##.current.blocker.jquery-modal
@@ -96,6 +111,18 @@ imgur.com##.spotlight-container
 
 ! Spotify
 open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
+
+!gmail
+mail.google.com##.qY.nH
+mail.google.com##.eJPjde
+mail.google.com##.FOBRw-ano
+mail.google.com##.I6agWe
+mail.google.com##.dgq5vc
+mail.google.com##.eJPjde
+
+!google
+docs.google.com##.docsRecommendationsPepPersistentEntryPointContainer
+
 
 ! Fextralife
 fextralife.com##iframe[src*="https://player.twitch.tv/?allowfullscreen&channel=fextralife"]
@@ -119,10 +146,12 @@ www.nytimes.com##.z-index-gateway-overlay
 www.instagram.com##.x1n2onr6.xg6iff7.xdt5ytf.x78zum5
 outlook.live.com##.LBktY > .GssDD
 www.waifu2x.net##.dmm-games > ul > li
+www.biblegateway.com##.go2729634377
 www.yahoo.com##.md\:min-h-\[4\.875rem\].md\:mt-3.min-h-\[4\.25rem\].relative
 x.com##.r-494qqr.css-175oi2r
 chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-light.md\:items-center.shadow-xxs.lg\:mx-auto.dark\:border-transparent.\[text-wrap\:pretty\].text-sm.pr-3.pl-5.py-4.border.rounded-2xl.gap-4.items-start.w-full.flex
 mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
+sys.4chan.org##.desktop.title
 
 
 
