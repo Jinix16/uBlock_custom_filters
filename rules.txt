@@ -81,7 +81,6 @@ www.twitch.tv##.side-nav-card-promoted-bottom.kHgzIE.Layout-sc-1xcs6mc-0
 www.twitch.tv##.side-nav-promoted-followed-card__gradient.nFCLd.Layout-sc-1xcs6mc-0
 www.twitch.tv##.community-highlight.bYZMRh.Layout-sc-1xcs6mc-0
 www.twitch.tv##.bOtksM.Layout-sc-1xcs6mc-0
-www.twitch.tv##.community-highlight.bYZMRh.Layout-sc-1xcs6mc-0
 
 
 ! 4chan
