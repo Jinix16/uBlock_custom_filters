@@ -84,6 +84,9 @@ www.twitch.tv##.bOtksM.Layout-sc-1xcs6mc-0
 www.twitch.tv##.frplMf.Layout-sc-1xcs6mc-0
 www.twitch.tv##.subtember-callout-container
 
+! amazon
+www.amazon.com##div.cm_cr_grid_center_right_non_images_widgets > .celwidget > .aui-primitive
+
 
 
 ! 4chan
