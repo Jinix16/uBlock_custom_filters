@@ -83,6 +83,7 @@ www.twitch.tv##.community-highlight.bYZMRh.Layout-sc-1xcs6mc-0
 www.twitch.tv##.bOtksM.Layout-sc-1xcs6mc-0
 www.twitch.tv##.frplMf.Layout-sc-1xcs6mc-0
 www.twitch.tv##.subtember-callout-container
+www.twitch.tv##.preview-card-carousel.iqZbWl.InjectLayout-sc-1i43xsx-0
 
 ! amazon
 www.amazon.com##div.cm_cr_grid_center_right_non_images_widgets > .celwidget > .aui-primitive
