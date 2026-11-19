@@ -84,6 +84,10 @@ www.twitch.tv##.bOtksM.Layout-sc-1xcs6mc-0
 www.twitch.tv##.frplMf.Layout-sc-1xcs6mc-0
 www.twitch.tv##.subtember-callout-container
 www.twitch.tv##.preview-card-carousel.iqZbWl.InjectLayout-sc-1i43xsx-0
+www.twitch.tv##.jDHJas.Layout-sc-1xcs6mc-0 > .iXVlMj.Layout-sc-1xcs6mc-0
+www.twitch.tv##.storiesLeftNavSection--TTJzc.dQMmwU.Layout-sc-1xcs6mc-0
+www.twitch.tv##.chat-room__content.jeukXd.Layout-sc-1xcs6mc-0 > div.Layout-sc-1xcs6mc-0 > .fnIdZg.Layout-sc-1xcs6mc-0
+
 
 ! amazon
 www.amazon.com##div.cm_cr_grid_center_right_non_images_widgets > .celwidget > .aui-primitive
@@ -202,6 +206,7 @@ www.yahoo.com##.md\:min-h-\[4\.875rem\].md\:mt-3.min-h-\[4\.25rem\].relative
 x.com##.r-494qqr.css-175oi2r
 www.pixiv.net##.hKYKav.sc-4nj1pr-5
 www.facebook.com##[data-visualcompletion="ignore-late-mutation"]
+www.autotrader.com##.w-100.text-center.margin-bottom-5
 
 
 
